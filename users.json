@@ -1,0 +1,57 @@
+[
+    {
+      "userid": 1,
+      "full_name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "course": "Computer Science",
+      "codekata_problems_solved": 50,
+      "attendance": [
+        { "date": "2020-10-01", "status": "present" },
+        { "date": "2020-10-02", "status": "absent" }
+      ]
+    },
+    {
+      "userid": 2,
+      "full_name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "course": "Information Technology",
+      "codekata_problems_solved": 40,
+      "attendance": [
+        { "date": "2020-10-01", "status": "present" },
+        { "date": "2020-10-02", "status": "present" }
+      ]
+    },
+    {
+      "userid": 3,
+      "full_name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "course": "Computer Science",
+      "codekata_problems_solved": 70,
+      "attendance": [
+        { "date": "2020-10-01", "status": "absent" },
+        { "date": "2020-10-02", "status": "present" }
+      ]
+    },
+    {
+      "userid": 4,
+      "full_name": "David Wilson",
+      "email": "david.wilson@example.com",
+      "course": "Information Technology",
+      "codekata_problems_solved": 30,
+      "attendance": [
+        { "date": "2020-10-01", "status": "present" },
+        { "date": "2020-10-02", "status": "absent" }
+      ]
+    },
+    {
+      "userid": 5,
+      "full_name": "Eve Davis",
+      "email": "eve.davis@example.com",
+      "course": "Computer Science",
+      "codekata_problems_solved": 60,
+      "attendance": [
+        { "date": "2020-10-01", "status": "absent" },
+        { "date": "2020-10-02", "status": "absent" }
+      ]
+    }
+  ]  

@@ -1,0 +1,24 @@
+[
+    {
+      "topic_name": "JavaScript Basics",
+      "date_covered": "2020-10-01",
+      "tasks": [
+        { "task_id": 1, "task_description": "Complete exercises 1-5", "date_assigned": "2020-10-01" }
+      ]
+    },
+    {
+      "topic_name": "Node.js",
+      "date_covered": "2020-10-05",
+      "tasks": [
+        { "task_id": 2, "task_description": "Build a basic server", "date_assigned": "2020-10-05" }
+      ]
+    },
+    {
+      "topic_name": "React",
+      "date_covered": "2020-10-10",
+      "tasks": [
+        { "task_id": 3, "task_description": "Create a simple React app", "date_assigned": "2020-10-10" }
+      ]
+    }
+  ]
+  
